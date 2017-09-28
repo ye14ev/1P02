@@ -1,0 +1,11 @@
+.GreenText{color:green;
+ }
+ .textTrandsom {
+   text-transform: uppercase;
+ }
+ #thefonts{
+   font-family: "Arial", Arial, sans-serif;
+ }
+ .one {
+   border:1px solid black
+ }
