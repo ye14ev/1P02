@@ -1,0 +1,24 @@
+.title
+{color: red;
+position: fixed
+}
+.paragraph
+{font-size: 20px;
+  position: relative;
+}
+.subhead
+{font-family: arial;
+  position:absolute;
+ }
+.director
+{text-transform: uppercase;
+}
+ol,p,h3 {
+  color:blue;
+}
+
+ol li{
+  color: red;
+}
+.box {margin:20px 10%20px 10%; border: red 5px solid;
+}
